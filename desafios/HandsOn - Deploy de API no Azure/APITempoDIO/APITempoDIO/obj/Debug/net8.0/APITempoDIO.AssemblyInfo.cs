@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APITempoDIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eaeef299decd388334281e5e8257fbdd9d499cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("APITempoDIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APITempoDIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
